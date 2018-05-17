@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 "test git quick start demo"
 sjfhkjdsdjfkhdkjsfhjkdfh
 
@@ -8,6 +9,9 @@ dkjfdslkfdskjfksdkdfklfkjfjkscdnslkkfeiwoiekfjd
 kdlfjlkdsjflkdsjflkjdsf
 dskfjlkjdflkwjerou23948904jdljflkds
 kdljflkdjsflsd
+=======
+"test git quick start demo" 
+>>>>>>> parent of 6c1248a... messed everythin up
 =======
 "test git quick start demo" 
 >>>>>>> parent of 6c1248a... messed everythin up
